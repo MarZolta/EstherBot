@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the first bot from Lion and Peacock, a consulting firm from Brisbane, Australia.",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
+    "HELLO": "Oh hey, how can I help?",
     "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CAN YOU HEAR ME": "I can hear you Clem Fandango.",
